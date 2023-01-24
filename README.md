@@ -11,7 +11,7 @@ We did the final presentation succesfully!
 
 https://github.com/davidrestivo/4-Real-Estate?organization=davidrestivo&organization=davidrestivo
 
-https://git.heroku.com/cryptic-tundra-01906.git
+https://cryptic-tundra-01906.herokuapp.com/
 
 https://drive.google.com/file/d/1VTnzujeJjJsvn0OORQwgcx77D8JqoJHg/view
 
